@@ -1,0 +1,89 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: rgb(255, 253, 253);
+  text-align: center;
+}
+
+footer {
+  background: #000;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+header h1 {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #fffdfd;
+    font-size: 40px;
+    }
+
+h2 {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(22, 22, 22);
+}
+    
+p {
+    font-style: normal;
+    color: #242424;
+    }
+
+ul {
+    list-style: circle;
+    color: #242424;
+}
+
+li {
+    color: #242424;
+}
+
+header {
+  background-color: #000000;
+  color: #fff;
+  padding: 20px 0;
+  }
+
+.banner {
+  background-color: #eee;
+  padding: 50px 20px;
+  } 
+
+u {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+.botao-voltar {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #d3d4d4;
+  color: rgb(92, 90, 90);
+  text-decoration: none;
+  border-radius: 5px;
+  font-family: sans-serif;
+  font-size: 16px;
+}
+
+.botao-voltar:hover {
+  background-color: #c7c7c7;
+}
+ 
+footer {
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: auto;
+  background: #000;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  position: fixed; 
+}
+
+main{
+  
+}
